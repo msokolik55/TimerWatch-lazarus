@@ -34,7 +34,8 @@ The program is structured as follows:
 
 ## Screenshots
 
-![Countdown Clock Screenshot](screenshot.png)
+![Countdown Clock Screenshot](screenshot1.png)
+![Countdown Clock Screenshot](screenshot2.png)
 
 ## Customization
 
